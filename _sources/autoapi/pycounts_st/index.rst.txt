@@ -1,0 +1,23 @@
+:py:mod:`pycounts_st`
+=====================
+
+.. py:module:: pycounts_st
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   plotting/index.rst
+   pycounts_st/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+
+   
+
